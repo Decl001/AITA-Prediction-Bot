@@ -139,5 +139,3 @@ cython_debug/
 
 .vscode/
 .DS_Store
-
-research/data
